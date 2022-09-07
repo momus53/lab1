@@ -1,5 +1,7 @@
 # LAB1
 
+Esta linea en teoria tendria que ir a la rama
+
 ## Objetivos
 
 Familiarizarse con los comandos básicos de git y con la consola de rails.
